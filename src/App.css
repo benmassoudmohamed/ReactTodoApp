@@ -1,0 +1,24 @@
+.div1{
+  height: 400px;
+  width: 700px;
+  background-color: #2fa2ef;
+}
+h1{
+  color: white;
+  padding: right 60%;
+}
+h6{
+  color: white;
+}
+.input{
+  width: 600px;
+}
+.button{
+  color:white;
+  background-color: #2fa2ef;
+  width: 100px;
+  -webkit-border-radius: 11px;
+  -moz-border-radius: 11px;
+  border-radius: 11px;
+
+}
